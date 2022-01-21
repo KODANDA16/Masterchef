@@ -1,0 +1,1 @@
+Eggs,Rice,soysause
